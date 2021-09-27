@@ -1,2 +1,2 @@
 ### LABDATA-FIA
-## MBA Analytics, Big Data e Data Science
+## MBA Analytics, Big Data, Data Science and Artificial Intelligence
